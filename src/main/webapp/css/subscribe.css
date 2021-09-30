@@ -1,0 +1,39 @@
+.car{
+    margin-top: 20px;
+    background-color: white;
+    border: 1px solid #DEDEDE;
+}
+.main-car{
+    width: 90%;
+    margin:20px auto;
+    padding: 20px;
+    line-height: 40px;
+    border-bottom: #DEDEDE dashed;
+
+}
+.tip-car{
+    width: 90%;
+    margin:20px auto;
+    padding: 20px;
+    background-color: #ffddba;
+}
+
+.tip{
+    width: 90%;
+    margin:20px auto;
+}
+
+.main-car li{
+    float: left;
+    margin-left: 60px;
+}
+
+.tip li{
+    margin-top: 30px;
+}
+.zf{
+    display: inline-table;
+    background-color: #f75941;
+    float: right;
+    padding: 10px;
+}

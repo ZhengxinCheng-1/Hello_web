@@ -1,0 +1,118 @@
+.box{
+    height: 460px;
+    border: 1px solid #DEDEDE;
+    margin-top: 10px;
+}
+
+.l-box{
+    height: 460px;
+    width: 60%;
+    border: 1px solid #DEDEDE;
+    display: inline-table;
+}
+.r-box{
+    height: 460px;
+    width:38%;
+    float: right;
+    border: 1px solid #DEDEDE;
+    color: #555;
+}
+
+.comt_nmb{
+    font-size: 30px;
+    color: #2D93CA;
+    padding-top: 30px;
+    margin-left: 20px;
+    line-height: 24px;
+}
+
+.comt_txt {
+    display: inline-block;
+    height: 24px;
+    line-height: 24px;
+    padding: 0 8px;
+    font-size: 16px;
+    background-color: #49f;
+    border-radius: 8px;
+    border-bottom-left-radius: 0;
+    color: #fff;
+    vertical-align: top;
+}
+
+.comment-box{
+    height: 100px;
+    font-size: 12px;
+    width: 95%;
+    margin: 50px auto;
+
+    border: 1px solid #DEDEDE;
+}
+
+.saver li{
+    margin-top: 50px;
+    margin-left: 50px;
+    float: left;
+}
+
+
+.show-img{
+    width: 100%;
+    height: 380px;
+}
+.show-ioc li{
+    margin-top: 15px;
+    float: left;
+    margin-left: 15px;
+
+}
+.show-ioc img{
+    width: 100px;
+    height: 50px;
+}
+
+.h-l{
+    display: inline-table;
+    float:left;
+    width: 20%;
+    margin-top: 60px;
+}
+
+.h-l img{
+    height: 50%;
+    width: 100%;
+
+}
+.h-r{
+    width: 70%;
+    float:left;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+.hotel-info{
+    border: 1px solid #DEDEDE;
+    margin-top: 10px;
+}
+.hotel-info:after{
+    content: ".";
+    height: 0;
+    display: block;
+    visibility: hidden;
+    clear: both;
+}
+.h-r li{
+    float: left;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.h-r img{
+    width: 100px;
+    height: 60px;
+}
+.h-r a{
+    float: right;
+    margin-top: 30px;
+    margin-right: 50px;
+    display: block;
+    background-color: #2D93CA;
+    padding: 10px 50px 10px 50px;
+}

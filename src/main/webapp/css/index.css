@@ -1,0 +1,68 @@
+.box{
+    height: 410px;
+    margin-top: 10px;
+    background-image: url("../img/hotel.jpeg");
+    background-size: cover;
+}
+.box-find{
+    float: left;
+    width: 320px;
+    height: 370px;
+    background-color: #2D93CA;
+    margin: 30px auto auto 100px;
+    border-radius: 10px;
+}
+.box-nav li{
+    float: left;
+    margin-top: 20px;
+    margin-left:50px;
+    cursor: pointer;
+}
+.box-from li{
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.box-from a{
+    width: 280px;
+    height: 30px;
+    text-align: center;
+    display: block;
+    border-radius: 3px;
+    background: #f78d39;
+    line-height: 30px;
+    color: white;
+}
+
+.box-title{
+    color: white;
+    text-align: center;
+    line-height: 40px;
+}
+.box-info{
+    width: 100%;
+    height: 88%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.choose-box{
+    color: #007DDB;
+    border-bottom: #007DDB solid
+}
+.show div{
+    background-color: #c0c0c0;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+}
+.show a{
+    width: 100px;
+    height: 30px;
+    background-color: #2D93CA;
+    float: right;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 4px;
+    margin-right: 5px;
+    line-height: 36px;
+}
